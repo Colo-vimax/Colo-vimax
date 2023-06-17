@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Django Project**
 
-- 🌱 I’m currently learning **Django,React and Mobile development**
+- 🌱 I’m currently learning **Django,MERN stack**
 
 - 💬 Ask me about **Html,CSS,JavaScript & Python**
 
